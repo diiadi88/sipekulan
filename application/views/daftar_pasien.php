@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
             <div class="panel panel-primary">
-                <div class="panel-heading">Silahkan daftar terlebih dahulu anjing anda</div>
+                <div class="panel-heading">Silahkan daftar terlebih dahulu </div>
                 <div class="panel-body">
                     <form method="post" <?php echo form_open_multipart(site_url('Sispak/daftar_pasien')); ?>
 						<div class="form-group">
